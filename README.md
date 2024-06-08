@@ -6,11 +6,11 @@ I'm a 21-year-old Computer and Systems Engineering student, passionate about tec
 ### 👾 Social Networks
 <p align="left">
   <a href="https://www.linkedin.com/in/enriquegdiaz08/">
-    <img width="32px" alt="LinkedIn" target="_blank" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/enriquegdiaz08" >
-    <img width="32px" alt="Twitter" target="_blank" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
+    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
