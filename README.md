@@ -5,11 +5,16 @@ I'm a 21-year-old Computer and Systems Engineering student, passionate about tec
 
 ### 👾 Social Networks
 <p align="left">
-  <a href="https://www.linkedin.com/in/enriquegdiaz08/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/enriquegdiaz08/" target="_blank">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/enriquegdiaz08"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://x.com/enriquegdiaz08" target="_blank">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
 
 
 ### 💻 Languages and Tools
